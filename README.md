@@ -1,1 +1,0 @@
-# jenkins-python-pyinstaller-app
